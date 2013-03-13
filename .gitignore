@@ -1,4 +1,4 @@
 *.class
 bin/*
 *.xml
-
+*.DS_Store
